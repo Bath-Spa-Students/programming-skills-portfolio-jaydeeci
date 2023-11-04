@@ -2,6 +2,7 @@ rivers = {
     'Pasig': 'Philippines',
     'River Thames': 'United Kingdom',
     'Orange River': 'South Africa',
+    'nile': 'egypt',
     }
 
 for river, country in rivers.items():
