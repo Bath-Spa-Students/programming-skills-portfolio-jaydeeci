@@ -1,6 +1,6 @@
 glossary = {
-    'string': 'A series of characters.',
-    'comment': 'A note in a program that the Python interpreter ignores.',
+    'variable': 'A value that changes depending on the conditions or information processed in the program.',
+    'data': 'Any information translated in a way that it is efficient.',
     'list': 'A collection of items in a particular order.',
     'loop': 'Work through a collection of items, one at a time.',
     'dictionary': "A collection of key-value pairs.",
