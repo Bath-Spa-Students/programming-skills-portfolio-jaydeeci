@@ -1,7 +1,5 @@
-# Make an empty list to store the pets in.
 pets = []
 
-# Make individual pets, and store each one in the list.
 pet = {
     'animal type': 'cat',
     'name': 'pumkin',
