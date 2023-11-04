@@ -1,11 +1,11 @@
-alien_color = 'white'  # Change to 'white', 'brown', or 'black' to test different versions
+alien_color = 'green'  # Change to 'green', 'red', or 'yellow' to test different versions
 
-if alien_color == 'white':
+if alien_color == 'green':
     print("Congratulations! You just earned 5 points.")
 
-alien_color = 'white'  # Change to 'white', 'brown', or 'black' to test different versions
+alien_color = 'green'  # Change to 'green', 'red', or 'yellow' to test different versions
 
-alien_color = 'black':
+alien_color = 'red':
     
-if alien_color == 'white':
+if alien_color == 'green':
     print("Congratulations! You just earned 5 points.")
